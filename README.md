@@ -5,7 +5,7 @@
 A simple and elegant **Digital Clock** built with HTML, CSS, jQuery, and JavaScript. The clock displays **hours, minutes, seconds, and AM/PM format** in a clean, modern UI.
 
 ## 🚀 Live Demo
-[View Digital Clock](https://your-username.github.io/Clock/)
+[View Digital Clock]((https://raj85446696.github.io/Clock/))
 
 ---
 
